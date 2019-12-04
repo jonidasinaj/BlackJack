@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Jonida/Documents/NetBeansProjects/BlackJack/src/model/rules/IHitStrategy.java</file>
+            <file>file:/C:/Users/Jonida/Documents/NetBeansProjects/BlackJack/src/view/SwedishView.java</file>
+            <file>file:/C:/Users/Jonida/Documents/NetBeansProjects/BlackJack/src/model/rules/AmericanNewGameStrategy.java</file>
+            <file>file:/C:/Users/Jonida/Documents/NetBeansProjects/BlackJack/src/model/Deck.java</file>
+            <file>file:/C:/Users/Jonida/Documents/NetBeansProjects/BlackJack/src/blackjack/Program.java</file>
+            <file>file:/C:/Users/Jonida/Documents/NetBeansProjects/BlackJack/src/model/Game.java</file>
+            <file>file:/C:/Users/Jonida/Documents/NetBeansProjects/BlackJack/src/model/rules/BasicHitStrategy.java</file>
+            <file>file:/C:/Users/Jonida/Documents/NetBeansProjects/BlackJack/src/model/rules/RulesFactory.java</file>
+            <file>file:/C:/Users/Jonida/Documents/NetBeansProjects/BlackJack/src/model/Player.java</file>
+            <file>file:/C:/Users/Jonida/Documents/NetBeansProjects/BlackJack/src/view/IView.java</file>
+            <file>file:/C:/Users/Jonida/Documents/NetBeansProjects/BlackJack/src/view/SimpleView.java</file>
+            <file>file:/C:/Users/Jonida/Documents/NetBeansProjects/BlackJack/src/model/Card.java</file>
+            <file>file:/C:/Users/Jonida/Documents/NetBeansProjects/BlackJack/src/model/rules/INewGameStrategy.java</file>
+            <file>file:/C:/Users/Jonida/Documents/NetBeansProjects/BlackJack/src/model/rules/InternationalNewGameStrategy.java</file>
+            <file>file:/C:/Users/Jonida/Documents/NetBeansProjects/BlackJack/src/controller/PlayGame.java</file>
+            <file>file:/C:/Users/Jonida/Documents/NetBeansProjects/BlackJack/src/model/Dealer.java</file>
+        </group>
+    </open-files>
+</project-private>
